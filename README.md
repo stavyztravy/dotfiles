@@ -1,1 +1,1 @@
-I use this for my arch hyprland setup.
+hyprland confs i saved here
